@@ -7,4 +7,6 @@ def main():
         i = i + 1
 
     print(fat)
+
+
 main()
